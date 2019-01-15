@@ -1,4 +1,4 @@
-# Data-Science Using Python and a little R.
+# Data-Science Using Python
 
 A place to share my code and reports for various data science projects.
 
